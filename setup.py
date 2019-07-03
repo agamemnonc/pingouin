@@ -22,7 +22,7 @@ INSTALL_REQUIRES = [
     'numpy>=1.15',
     'scipy>=1.2',
     'pandas>=0.23',
-    'matplotlib>=3.0.2',
+    'matplotlib>=2.2.2',
     'seaborn>=0.9.0',
     'statsmodels>=0.10.0'
 ]
